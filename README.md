@@ -1,1 +1,2 @@
-# Etch-a-Sketch
+# Landing Page Project by the Odin Project
+
